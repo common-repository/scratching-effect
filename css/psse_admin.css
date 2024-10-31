@@ -1,0 +1,87 @@
+.psse_desc {
+	color:#BDBDBD;
+	font-style: italic;
+	font-size:9pt;
+}
+
+.psse_select_150p{
+	width:150px;
+}
+
+.psse_select_100{
+	width:100%;
+	margin-top:5px;
+}
+
+.psse_table_100{
+	width:100%;
+}
+
+.psse_table_100 td{
+	vertical-align:middle;
+	width:50%;
+	height:60px;
+}
+
+.psse_table_100_3td{
+	width:100%;
+}
+
+.psse_table_100_3td td{
+	height:60px;
+}
+
+.psse_td_label {
+	width:250px !important;
+}
+
+.psse_td_thin {
+	width:250px !important;
+}
+
+.psse_url_input {
+	width:250px;
+}
+
+.psse_table_settings tr {
+	height:60px;
+}
+
+.psse_radio_margin {
+	margin-left:25px !important;
+}
+
+.psse_no_v_align{
+	vertical-align:top !important;
+}
+
+#psse_content_metabox h2 {
+	font-size: 17px;
+    color: #0073aa;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 10px;
+    padding-top: 4px;
+	margin-bottom:15px;
+	margin-top:5px;
+}
+
+.psse_admin_title{
+	border-bottom: 2px solid #e8e8e8;
+	margin-top:15px !important;
+}
+
+#psse_settings_metabox h2 {
+	font-size: 17px;
+    color: #0073aa;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 10px;
+    padding-top: 4px;
+	margin-bottom:15px;
+	margin-top:5px;
+}

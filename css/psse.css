@@ -1,0 +1,15 @@
+.psse_container {
+  position: relative;
+  margin: 0 auto;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none; 
+  -o-user-select: none;
+  user-select: none;
+  background-size:cover;
+}
+
+.psse_canvas {
+  position: absolute;
+  top: 0;
+}
